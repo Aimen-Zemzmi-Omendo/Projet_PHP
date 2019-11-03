@@ -12,11 +12,11 @@
       </div>
       <div class="form-group">
         <label for="password">Mot de passe</label>
-        <input type="password" class="form-control" id="password1" placeholder="Azerty123" name="password" required>
+        <input type="password" class="form-control" id="password1" placeholder="Mot de passe" name="password" required>
       </div>
       <div class="form-group">
         <label for="password2">Confirmez votre mot de passe</label>
-        <input type="password" class="form-control" id="password2" placeholder="Azerty123" name="password2" required>
+        <input type="password" class="form-control" id="password2" placeholder="Confirmer le mot de passe" name="password2" required>
       </div>
     <button type="submit" class="btn btn-primary">Créer mon compte</button>
   </form>
